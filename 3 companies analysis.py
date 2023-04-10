@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 24 21:47:25 2023
-
-@author: Korisnik
-"""
-
 # -- Import librairies --  
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -12,7 +5,7 @@ import numpy as np
 
 # Extract data https://pypi.org/project/fundamentalanalysis/ 
 import fundamentalanalysis as fa
-api_key = "bc0466dc3a4561fb5679c9578bd39689"
+api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Ticker we use
 #ticker = "MSFT"
